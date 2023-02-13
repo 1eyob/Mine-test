@@ -32,3 +32,14 @@ npm run dev
 Open up [http://localhost:3000](http://localhost:3000) and you should be ready to go!
 
 If you're used to using the `vercel dev` command provided by [Vercel CLI](https://vercel.com/cli) instead, you can also use that, but it's not needed.
+
+# Technologies Used
+
+Remix js for backend and frontend.It's fullsatck application
+MongoDB for the database
+Prisma ORM for the object relation mapping to the mondo database
+Material UI for the Styling
+Session Cookies for the authentication
+DataGrid to dispaly search resuls
+
+
