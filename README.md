@@ -35,11 +35,11 @@ If you're used to using the `vercel dev` command provided by [Vercel CLI](https:
 
 # Technologies Used
 
- Remix js for backend and frontend.It's fullsatck application.
+ Remix js for backend and frontend.It's fullstack application.
  
  MongoDB for the database.
  
- Prisma ORM for the object relation mapping to the mondo database.
+ Prisma ORM for the object relation mapping to the mongo database.
  
  Material UI for the Styling UI components.
  
