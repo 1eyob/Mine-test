@@ -46,5 +46,7 @@ If you're used to using the `vercel dev` command provided by [Vercel CLI](https:
  Session Cookies for the authentication.
  
  DataGrid to dispaly search resuls.
+ 
+ Typescript 
 
 
